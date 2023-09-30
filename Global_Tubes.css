@@ -1,0 +1,12 @@
+#a {
+    width: auto;
+    border: 3px ridge black;
+    border-radius: 5px;
+    padding: 2px;
+}
+#b
+{
+   
+    border: 2px dotted black;
+    border-radius: 10px;
+}
